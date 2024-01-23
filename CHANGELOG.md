@@ -2,6 +2,17 @@
 
 A changelog should be maintained separate from the git history / log that describes the purpose of any major change / release. Example format below
 
+## v0.1.2
+
+### Added
+
+### Changed
+
+- Updated README file with detailed info 
+
+### Fixed
+
+
 ## v0.1.1
 
 ### Added
